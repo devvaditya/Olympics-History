@@ -8,7 +8,8 @@ For over 120 years, the Olympic Games have captivated audiences worldwide. Today
 
 ## Dashboard
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4a65229b-f820-442c-b424-3c74559c3bc9/696698b6-0271-4655-bbdf-4d13e70c29f6/Untitled.png)
+![image](https://github.com/devvaditya/Olympics-History/assets/110883375/348e4c7a-846d-4079-837e-04837760d3b1)
+
 
 ## Project Goals
 
@@ -21,13 +22,13 @@ My dashboard was designed to help users, such as sports coaches and national rep
 ## Fascinating Insights
 
 1. USA is ruling the Medal count for over a century
-2. First winter Olympics hosted was in Chamonix 1924
-3. Interestingly, Art competition was also introduced in Olympic Games in 1912
-4. The last Art competition was held in 1948 with total of 156 medals won over the entire span
-5. The male have dominated over the span of Olympics with 27.9% of women winning a medal which has increased over time
-6. Athletics was the top sport over the entire span of Olympic Games
-7. The youngest Player to win a gold was at 13 years of age whereas the oldest to win a gold was 64 years.
-8. Michael Fred Phelps, II From USA has won the maximum of 28 medals out of which 23 are gold in swimming.
+2. First Winter Olympics hosted was in Chamonix in 1924
+3. Interestingly, Art competition was also introduced in the Olympic Games in 1912
+4. The last Art competition was held in 1948 with a total of 156 medals won over the entire span
+5. The male have dominated over the span of the Olympics with 27.9% of women winning a medal which has increased over time
+6. Athletics was the top sport over the entire span of the Olympic Games
+7. The youngest Player to win a gold was 13 years of age whereas the oldest to win a gold was 64 years.
+8. Michael Fred Phelps, II From the USA has won a maximum of 28 medals out of which 23 are gold in swimming.
 
 ## Key Learnings
 
